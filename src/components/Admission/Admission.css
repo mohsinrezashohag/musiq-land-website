@@ -1,0 +1,12 @@
+.admision-part{
+    background-image: url(../../images/1633345830554.jpeg);
+    padding: 50px;
+    /* background-color: rgb(33, 37, 41); */
+    color: white;
+}
+
+.main-form{
+   padding: 50px;
+    border:5px solid orange ;
+border-radius: 20px;
+}

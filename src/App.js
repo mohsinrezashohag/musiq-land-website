@@ -6,9 +6,9 @@ import Home from './components/Home/Home';
 import Services from './components/Services/Services';
 import About from './components/About/About';
 import Footer from './components/Footer/Footer';
-import Gallery from './components/Gallery/Gallery';
 import Error from './components/Error/Error';
 import ServiceDetails from './components/ServicesDetails/ServiceDetails';
+import Admission from './components/Admission/Admission';
 
 function App() {
   return (
@@ -37,10 +37,10 @@ function App() {
             <ServiceDetails></ServiceDetails>
           </Route>
 
-
-          <Route exact path="/gallery">
-            <Gallery></Gallery>
+          <Route exact path="/admission">
+            <Admission></Admission>
           </Route>
+
 
           <Route exact path="/about">
             <About></About>

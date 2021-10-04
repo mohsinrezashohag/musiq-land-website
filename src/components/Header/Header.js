@@ -11,10 +11,10 @@ const Header = () => {
                 <Container>
                     <img className="logo" src={logo} alt="" />
                     <Nav className="me-end">
-                        <Link className="nav-link" to="/">Home</Link>
-                        <Link className="nav-link" to="/services">Services</Link>
-                        <Link className="nav-link" to="/about">About</Link>
-                        <Link className="nav-link" to="/gallery">Gallery</Link>
+                        <Link className="nav-link text-warning" to="/">Home</Link>
+                        <Link className="nav-link text-warning" to="/services">Services</Link>
+                        <Link className="nav-link text-warning" to="/admission">Admission</Link>
+                        <Link className="nav-link text-warning" to="/about">About</Link>
                     </Nav>
                 </Container>
             </Navbar>
