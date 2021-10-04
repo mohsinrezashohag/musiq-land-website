@@ -5,7 +5,7 @@ import './Service.css'
 
 
 const Service = (props) => {
-    const { img, teacher, duration, name, id } = props.service;
+    const { img, teacher, duration, name, id } = props?.service;
     return (
         <Col>
             <Card className="card">

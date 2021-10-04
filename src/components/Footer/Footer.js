@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container } from 'react-bootstrap';
+import { Container, Button } from 'react-bootstrap';
 import logo from '../../images/logo.png'
 import './Footer.css'
 
@@ -8,23 +8,29 @@ const Footer = () => {
         <div className="footer">
 
             <Container>
-
                 <div className="footer-inside">
-
 
                     <div className="logo-slogan">
                         <img className='logo' src={logo} alt="" />
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora cumque distinctio doloribus, modi earum nam, adipisci dolor odio voluptatibus quidem </p>
+                        <h6 className="my-2">BOOST BRAINPOWER WITH MUSIC. FROM ANYWHERE.</h6>
+                        <p className="footer-p">Music Land is the world’s leading provider of music-based education for children from birth through age seven. We use the power and joy of music-making to help children learn and grow during the years most critical to brain development. Since 1978, Music Land has helped millions of children around the world build a strong foundation for a lifetime love of learning.</p>
                     </div>
 
 
-
                     <div className="contact-section">
-                        <p><i className="fas fa-map-marker-alt"></i> Dhaanmondi 32 st-12/4 - Dhaka</p>
+                        <div>
+                            <p><i className="fas fa-map-marker-alt"></i> Dhaanmondi 32 st-12/4 - Dhaka</p>
 
-                        <p><i className="fas fa-mobile"></i> 01629365037</p>
+                            <p><i className="fas fa-mobile"></i> 01629365037</p>
 
-                        <p><i className="fas fa-envelope"></i> reza@gmail.com</p>
+                            <p><i className="fas fa-envelope"></i> reza@gmail.com</p>
+                        </div>
+
+                        <div >
+                            <input className="sub-input" type="text" placeholder="Enter Your Email" />
+                            <br />
+                            <Button className="details-btn">Subscribe</Button>
+                        </div>
                     </div>
 
                 </div>

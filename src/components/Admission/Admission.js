@@ -51,25 +51,26 @@ const Admission = () => {
 
 
                     <Row className="mb-2">
-                        <Form.Group className="mb-3" id="formGridCheckbox">
-                            <Form.Check type="checkbox" label="Check me out" />
-                        </Form.Group>
+
 
                         <Form.Group controlId="formFileSm" className="mb-3">
                             <Form.Label>Select Image Of Student</Form.Label>
                             <Form.Control type="file" size="sm" />
                         </Form.Group>
+                        <Form.Group className="mb-3" id="formGridCheckbox">
+                            <Form.Check type="checkbox" label="agreed with terms & condition" />
+                        </Form.Group>
                     </Row>
 
 
 
-
+                    <Button className="details-btn" variant="primary" type="submit">
+                        Submit
+                    </Button>
 
                 </Form>
                 <br />
-                <Button className="details-btn" variant="primary" type="submit">
-                    Submit
-                </Button>
+
             </Container>
 
         </div>

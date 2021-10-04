@@ -12,11 +12,29 @@
 }
 
 .logo-slogan{
-    text-align: center;
+    text-align: left;
     margin: 20px;
+}
+.logo-slogan img{
+    width: 240px;
+    height: 120px;
 }
 
 .contact-section{
-    text-align: center;
+    text-align: left;
     margin: 20px;
+    margin-left: 90px;
 }
+
+.footer-p{
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.sub-input{
+    padding: 12px;
+    width: 400px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
