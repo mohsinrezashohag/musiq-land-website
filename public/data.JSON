@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Piano Lessons",
+        "img": "https://img1.wsimg.com/isteam/stock/1061/:/rs=w:365,h:365,cg:true,m/cr=w:365,h:365",
+        "teacher": "Jessy Pinkman",
+        "duration": "3 month",
+        "description": "Become ambidextrous with your hands and  multilingual with your brain.  Learning how to play piano is not only a fun, life enhancing skill, it also helps strengthen motor skill coordination and brain power.  Just think about it;  one hand playing notes in the treble clef, one hand notes in the bass clef, while simultaneously reading and interpreting music. Wow!  Playing piano well is not only an amazing accomplishment, it is also a language learning, brain enhancing endeavor.  "
+    },
+    {
+        "id": 2,
+        "name": "Vocal Lessons",
+        "img": "https://img1.wsimg.com/isteam/stock/yllljEp/:/rs=w:365,h:365,cg:true,m/cr=w:365,h:365",
+        "teacher": "Ar Rahman",
+        "duration": "2 month",
+        "description": "If you have ever sung a song, a natural body/mind reaction is one of elation.  This comes from a hormone released by singing called endorphins.  Endorphins are associated with feelings of pleasure.  Another hormone released during singing,  is oxytocin.  This hormone has also been found to alleviate anxiety and stress.  Oxytocin also promotes feelings of trust and bonding.  More studies have found that singing lessens feelings of depression and anxiety! "
+    },
+    {
+        "id": 3,
+        "name": "Guitar, Bass & Ukulele Lessons",
+        "img": "https://img1.wsimg.com/isteam/stock/1070/:/rs=w:365,h:365,cg:true,m/cr=w:365,h:365",
+        "teacher": "Oni Hasan",
+        "duration": "4 month",
+        "description": "Always wanted to learn how to play guitar? Our guitar and ukulele teachers cater to each and every style, genre, or age at our studio. Take up electric or acoustic guitar lessons and rock it out, play some smooth jazz, or simply learn how to chord some nice old songs you grew up listening to.  A guitar is a fun, portable instrument you can bring to parties, campfires, school recitals or even to a street corner to do some busking.  Consider taking vocal lessons along with guitar as the two instruments really compliment each other.  A lot of our guitar teachers are also great singers and you can always get some pointers from them too."
+    },
+    {
+        "id": 4,
+        "name": "Flute, Sax, Clarinet & Recorder Lessons",
+        "img": "https://img1.wsimg.com/isteam/stock/27766/:/rs=w:365,h:365,cg:true,m/cr=w:365,h:365",
+        "teacher": "James Galway",
+        "duration": "2 month",
+        "description": "The saxophone is very accommodating in the early stages of musical development. Within the standard range, notes respond easily, even with the most undeveloped embouchure  (the position of the lips in producing a tone) and breathing technique. The saxophone is not as prone to squeak like the clarinet or sound airy and flat like the flute in the beginning. Soon thereafter, however, much attention need be given to the development of good posture, support, relaxation, hand position, breathing, embouchure, articulation, and manual dexterity."
+    },
+    {
+        "id": 5,
+        "name": "Drum Lessons",
+        "img": "https://img1.wsimg.com/isteam/stock/3DGBYRk/:/rs=w:365,h:365,cg:true,m/cr=w:365,h:365",
+        "teacher": "Beshi Joss Nafis",
+        "duration": "4 month",
+        "description": "Starting children in music as early as possible is integral for a lifetime of learning and loving music.  But sometimes starting them out on an instrument is not always the best first step.   It can be very challenging to play the drums if your body, arms, and hands are not big enough.  Most of the time if you start your child too young, they will quit.  However, we have the perfect alternative for young aspiring percussionists."
+    },
+    {
+        "id": 6,
+        "name": "Violin & Fiddle Lessons",
+        "img": "https://img1.wsimg.com/isteam/stock/15335/:/rs=w:365,h:365,cg:true,m/cr=w:365,h:365",
+        "teacher": " Nicola Benedetti ",
+        "duration": "2 month",
+        "description": "There are a lot of challenging aspects involved with violin lessons and fiddle lessons, but after suffering through a significant amount of screeching and flat sounding notes, the rewards can be delightful!  The upside to learning how to play a violin is that it only contains 4 strings, which in some cases can make it slightly easier to learn than a guitar.  The violin is a very portable instrument that comes in different sizes for various body sizes.  Playing the violin requires a heightened sense of tonal awareness which is good ear training that can be applied to any other instrument.   If you are looking for violin lessons in Oakville, look no further!  We are now providing violin lessons online as well as in person at the Oakville Music Studio!"
+    }
+]

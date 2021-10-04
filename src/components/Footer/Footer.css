@@ -1,0 +1,22 @@
+
+.footer{
+    background-color:#212529;
+}
+
+.footer-inside{
+  
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    color: white;
+    font-size: 13px;
+}
+
+.logo-slogan{
+    text-align: center;
+    margin: 20px;
+}
+
+.contact-section{
+    text-align: center;
+    margin: 20px;
+}
